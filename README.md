@@ -1,4 +1,4 @@
-#Stock Simulation
+# Stock Simulation
 
 This python program was developed as a way to test "Shannon's Demon", a rebalancing method to generate a "guaranteed" return on a portfolio.
 
