@@ -7,4 +7,10 @@ The program supports both fake stocks (governed by predetermined functions) and 
 The program also generates portfolios which rebalance every trading interval.
 At the end, the portfolios are graphed to compare their performances.
 
+Make sure to install requirements! Navigate to the repo and type 
+
+> pip install -r requirements.txt
+
+in the console.
+
 The project is still a work in progress.
